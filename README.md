@@ -72,9 +72,7 @@ Dependencies: Only necessary third-party packages are used to keep the app light
 <img src="screenshot7.png" width="300" height="600">
 <img src="screenshot8.png" width="300" height="600">
 <img src="screenshot9.png" width="300" height="600">
-<img src="screenshot10.png" width="300" height="600">
-<img src="screenshot11.png" width="300" height="600">
-<img src="screenshot12.png" width="300" height="600">
+
 
 ## Links
 Appetize.io Showcase: 
