@@ -6,6 +6,7 @@ The main objective is to create an app that integrates this [figma design](https
 It is mindblowing.
 
 I was paired with a System Tester [Jessica Aki](https://www.linkedin.com/in/jessica-aki-0a76b6252)
+This is her test cases [View](https://docs.google.com/spreadsheets/d/1SYbcKWWGn4P5pyij_PcqHDj0noZxQye7c4nVzIlVzY8/edit?gid=1998278940#gid=1998278940)
 ## Objectives
 
 - Create a Timbu account on [Timbu Cloud](https://timbu.cloud)
