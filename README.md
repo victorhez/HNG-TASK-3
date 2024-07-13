@@ -78,7 +78,7 @@ Dependencies: Only necessary third-party packages are used to keep the app light
 
 ## Links
 Appetize.io Showcase: 
-[View the app](https://appetize.io/app/android/com.victorhez.hngtask2?device=pixel7&osVersion=13.0)
+[View the app](https://appetize.io/app/b_l7apgocgwuofcl7oujoqxn2qcq)
 
 ## APK Download
 
